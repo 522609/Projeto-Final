@@ -1,8 +1,9 @@
-body{
+body,html{
     background-color:whitesmoke;
     color:black;
     padding: 20px;
     margin-top: auto;
+    background-size:cover;
 }
 header{
     background-color:black;
@@ -106,11 +107,11 @@ section{
 
 
 footer{
-    background-color:rgb(54, 9, 218);
+    background-color:black;
 text-align: left;
 padding: 20px;
 float: left;
-color:black;
+color:white;
 
 }
 .destaque{
